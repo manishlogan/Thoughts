@@ -6,3 +6,4 @@ Bus info for Kolkata
 Bus info for Bangalore
 Mileage calculator
 App to maintain data of things that are lent to others, and borrowed from others
+Confessions - An app where users can enter their confessions
